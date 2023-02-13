@@ -2,7 +2,7 @@ const data = [
     {
         id: 0,
         title: "The Bad Beginning",
-        text:`
+        text: `
         An old man stands before you and unfolds a map.
         "Here is the map. Where do you wish to go?"`, //text to display
         choice: [
@@ -16,7 +16,10 @@ const data = [
         id: 1,
         title: "That's The Life For Me!",
         text: "You've selected New York City. There is a giant peach stuck through the empire state building.",
-        choice: [],
+        choice: [
+            { id: 0, text: "Eat The Peach", goTo: 4 },
+            { id: 1, text: "Leave The Peach Be", goTo: 5 },
+        ],
     },
     {
         id: 2,
@@ -28,6 +31,18 @@ const data = [
         id: 3,
         title: "Santa Fail",
         text: "Santa Claus is not here, neither is Tim Allen",
+        choice: [],
+    },
+    {
+        id: 4,
+        title: "Rest In Peaches",
+        text: "You got a stomachache and died.",
+        choice: [],
+    },
+    {
+        id: 5,
+        title: "New York Silly",
+        text: "You enjoy a nice night on the town in New York.",
         choice: [],
     },
 ];

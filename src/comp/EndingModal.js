@@ -2,8 +2,7 @@ import React from "react";
 import data from "../data";
 import EndingList from "./EndingList";
 
-function EndingModal({ handleClose, endings }) {
-    const endingTotal = 3; //total number of endings
+function EndingModal({ handleClose, endings, endingTotal }) {
     const endingList = []; //array to populate which displays list of endings
 
     //use for loop to populate array
