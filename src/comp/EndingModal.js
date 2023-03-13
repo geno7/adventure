@@ -6,7 +6,7 @@ function EndingModal({ handleClose, endings, endingTotal }) {
     const endingList = []; //array to populate which displays list of endings
 
     //use for loop to populate array
-    for (let i = 1; i < endingTotal + 1; i++) {
+    for (let i = 2; i < endingTotal + 2; i++) {
         let showEnding;
 
         if (endings.includes(i)) {
