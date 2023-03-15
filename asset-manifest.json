@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/adventure/static/css/main.77bbbea3.css",
+    "main.js": "/adventure/static/js/main.3c83ed8b.js",
+    "static/js/787.4148c072.chunk.js": "/adventure/static/js/787.4148c072.chunk.js",
+    "static/media/5.png": "/adventure/static/media/5.0a40989d7d9b6b618373.png",
+    "static/media/0.png": "/adventure/static/media/0.9aeea1dc8cc6a722e18c.png",
+    "static/media/CherryBomb-Regular.svg": "/adventure/static/media/CherryBomb-Regular.b66a5bba1fb03ad57522.svg",
+    "static/media/titlescreen.gif": "/adventure/static/media/titlescreen.04819526319c4e9cfbc9.gif",
+    "static/media/2.png": "/adventure/static/media/2.96ebb6fdaaa6b16d2e2e.png",
+    "static/media/4.png": "/adventure/static/media/4.46a0d1a313534b85ec9c.png",
+    "static/media/1.png": "/adventure/static/media/1.77c2c5cb845d4a0d5da3.png",
+    "static/media/CherryBomb-Regular.eot": "/adventure/static/media/CherryBomb-Regular.ea261d46bcaa061b3127.eot",
+    "static/media/CherryBomb-Regular.ttf": "/adventure/static/media/CherryBomb-Regular.912f7ce2144576320d66.ttf",
+    "static/media/3.png": "/adventure/static/media/3.777ca8cdca82e056ca81.png",
+    "static/media/JollyLodger-Regular.svg": "/adventure/static/media/JollyLodger-Regular.c216d88bc754cd694cd5.svg",
+    "static/media/CherryBomb-Regular.woff": "/adventure/static/media/CherryBomb-Regular.b85363f081cd57e84821.woff",
+    "static/media/JollyLodger-Regular.eot": "/adventure/static/media/JollyLodger-Regular.ab82c13d52cd785758f5.eot",
+    "static/media/JollyLodger-Regular.ttf": "/adventure/static/media/JollyLodger-Regular.d9785c8c959eadc4b582.ttf",
+    "static/media/JollyLodger-Regular.woff": "/adventure/static/media/JollyLodger-Regular.1799b4bbff31af75e21a.woff",
+    "index.html": "/adventure/index.html",
+    "main.77bbbea3.css.map": "/adventure/static/css/main.77bbbea3.css.map",
+    "main.3c83ed8b.js.map": "/adventure/static/js/main.3c83ed8b.js.map",
+    "787.4148c072.chunk.js.map": "/adventure/static/js/787.4148c072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bbbea3.css",
+    "static/js/main.3c83ed8b.js"
+  ]
+}
